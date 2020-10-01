@@ -1295,7 +1295,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 	-- Medium Barrel
 	bm_wp_m4_uupg_b_medium_desc = "Carbine-length barrel.",
 	-- Short Barrel
-	bm_wp_m4_uupg_b_short_desc = "Super-short barrel.",
+	bm_wp_m4_uupg_b_short_desc = "Super-short barrel. Watch out for your dog.",
 	-- Stealth Barrel
 	bm_wp_m4_uupg_b_sd_desc = "Integral suppressor designed for the CAR-4." .. silstr, --get_string_by_option(InFmenu.settings.txt_wpnname, {"Integral suppressor designed for mid-length carbines." .. silstr, "Integral suppressor designed for the CAR-4." .. silstr}),
 	-- CAR DMR
