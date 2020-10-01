@@ -1654,9 +1654,9 @@ if InFmenu.settings.txt_wpnname > 1 then
 
 	-- EAGLE HEAVY
 	bm_w_scar_desc = "Accurate and reliable, even under adverse conditions. While its little 5.56x45mm brother has faded into obscurity, the heavy sibling continues to impress.",
-	bm_wp_scar_b_long_desc = "Extended 20-inch barrel.",
-	bm_wp_scar_b_short_desc = "CQC variant barrel.",
-	bm_wp_scar_s_sniper_desc = "Non-folding precision-fire stock.",
+	bm_wp_scar_b_long_desc = "Extended 20-inch barrel. ",
+	bm_wp_scar_b_short_desc = "CQC variant barrel. Loud.",
+	bm_wp_scar_s_sniper_desc = "Non-folding precision-fire stock. Totally worth the money.",
 
 
 	-- FALCON
@@ -1744,12 +1744,12 @@ if InFmenu.settings.txt_wpnname > 1 then
 	bm_w_m14_desc = "Post-WW2 rifle given the impossible task of replacing four guns. Found its present marksman role when it was replaced as the standard service rifle.",
 	-- i don't even remember who it was that insisted the KF rifle was an M14 as opposed to a Mk14, but hopefully you're less of a brainlet today than you were all those years ago
 	bm_wp_m14_body_ebr_desc = "High-strength military frame for close marksman support.",
-	bm_wp_m14_body_jae_desc = "Aluminum thumbhole stock and body.",
+	bm_wp_m14_body_jae_desc = "Aluminum thumbhole stock and body. Garish.",
 	bm_wp_upg_o_m14_scopemount_desc = "Improved mounting position that places sights closer to the eye.",
 	--
 	bm_wp_wpn_fps_m14_extra_bipod_desc = "When the jungle speaks, listen.\n\n" .. bipodstr,
 	-- B-team stock
-	bm_wp_m14_body_ruger = "Ruger Mini-14 Body",
+	bm_wp_m14_body_ruger = "Ruger Mini-14 Body, for the soldier of fourtune.",
 	bm_wp_m14_body_ruger_desc = "A second-choice stock. Fitting for a B-Team like you.",
 
 
@@ -1783,7 +1783,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 
 	-- RATTLESNAKE
 	bm_w_msr_desc = "SOCOM sniper rifle currently replacing all bolt-action sniper rifles in US special forces. Theoretically capable of putting five shots into a half-foot circle a kilometer away.",
-	bm_wp_snp_msr_b_long_desc = "Extended range barrel.",
+	bm_wp_snp_msr_b_long_desc = "Extended range barrel. Longer and stronger.",
 	bm_wp_snp_msr_ns_suppressor = "Silent Rattle",
 	bm_wp_snp_msr_ns_suppressor_desc = "It's not a rude surprise if they never see it coming." .. silstr3,
 	bm_wp_msr_body_msr = "Diamondback Body",
@@ -1886,7 +1886,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 
 	-- Full-auto conversion
 	bm_wp_inf_fullauto_conversion = "Full-Auto Conversion",
-	bm_wp_inf_fullauto_conversion_desc = "Converts the weapon to full-auto.",
+	bm_wp_inf_fullauto_conversion_desc = "Converts the weapon to full-auto. What's another 10 years in prision?",
 
 
 	-- CHICAGO TYPEWRITER
@@ -1924,7 +1924,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 	-- CMP
 	bm_w_mp9_desc = "A descendant of the TMP, whose fate was sealed by unfavorable export laws. Can be fired one-handed, as certain law enforcers will demonstrate.",
 	bm_w_x_mp9_desc = "Don't get too attached to something if you aren't willing to move the world for it. One dog can travel a thousand miles to find its owner. A hundred others will die trying.",
-	bm_wp_mp9_m_extended_desc = "Full-sized magazine.",
+	bm_wp_mp9_m_extended_desc = "Full-sized magazine. How much did that cost again?",
 	-- skeletal stock
 	bm_wp_mp9_s_skel = "Solid Stock",
 	bm_wp_mp9_s_skel_desc = "Fixed stock typically found on a related but distinct tactical machine pistol.", -- tmp stock
@@ -1936,7 +1936,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 	bm_w_x_mp5_desc = "Just because you can do the inadvisable doesn't mean you should. But it also doesn't mean you can't.",
 	-- Sehr Kurze
 	--bm_wp_mp5_fg_m5k = "Sehr Kurze",
-	bm_wp_mp5_fg_m5k_desc = "Short railed handguard.",
+	bm_wp_mp5_fg_m5k_desc = "Short and stubby railed handguard.",
 	-- Polizei Tactical
 	--bm_wp_mp5_fg_mp5a5 = "Polizei Tactical",
 	bm_wp_mp5_fg_mp5a5_desc = "Tactical railed handguard.",
@@ -2153,7 +2153,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 	bm_wp_ben_s_collapsed_desc = "You weren't using it, were you?",
 	-- stock that can't kill babies
 	bm_wp_ben_fg_standard = "Solid Stock",
-	bm_wp_ben_fg_standard_desc = "A fixed tactical stock.",
+	bm_wp_ben_fg_standard_desc = "A fixed tactical stock for the civilan market. You don't want to get the Commerce Department on your ass, right?",
 
 
 	-- JUDGE
