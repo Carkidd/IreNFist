@@ -1293,7 +1293,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 	-- Long Barrel
 	bm_wp_m4_uupg_b_long_desc = "Full-length barrel. Marginally used prior to your ownership of it.",
 	-- Medium Barrel
-	bm_wp_m4_uupg_b_medium_desc = "Carbine-length barrel.",
+	bm_wp_m4_uupg_b_medium_desc = "Carbine-length barrel. A nice, comfortable amount.",
 	-- Short Barrel
 	bm_wp_m4_uupg_b_short_desc = "Super-short barrel. Watch out for your dog.",
 	-- Stealth Barrel
@@ -1535,7 +1535,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 	-- long barrel
 	bm_wp_aug_b_long_desc = "900mm support-length barrel, sans bipod.",
 	-- short barrel
-	bm_wp_aug_b_short_desc = "690mm carbine-length barrel.",
+	bm_wp_aug_b_short_desc = "690mm carbine-length barrel. Can't get too much shorter than this.",
 	-- A3 rail
 	bm_wp_aug_fg_a3 = "A3 Tactical Rail",
 	bm_wp_aug_fg_a3_desc = "Rail component taken from the A3 variant. Extra intimidating.",
@@ -1553,7 +1553,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 	bm_wp_sub2000_fg_gen2_desc = "Second-generation handguard with built-in rails.",
 	-- delabarre handguard
 	bm_wp_sub2000_fg_railed = "Curette Handguard",
-	bm_wp_sub2000_fg_railed_desc = "Picatinny-covered handguard.",
+	bm_wp_sub2000_fg_railed_desc = "Picatinny-covered handguard. Heavy, huh?",
 	-- tooth fairy suppressor
 	bm_wp_sub2000_fg_suppressed = "Impact Suppressor",
 	bm_wp_sub2000_fg_suppressed_desc = "It's not what you can hear that you need to be afraid of.",
@@ -1581,16 +1581,16 @@ if InFmenu.settings.txt_wpnname > 1 then
 	bm_wp_ass_s552_b_long_desc = "363mm Commando 551 barrel.",
 	-- enhanced ugly
 	bm_wp_ass_s552_fg_standard_green = "Enhanced Handguard",
-	bm_wp_ass_s552_fg_standard_green_desc = "Handguard with enhanced finish.",
+	bm_wp_ass_s552_fg_standard_green_desc = "Handguard with enhanced finish. No kidding.",
 	--
 	bm_wp_ass_s552_fg_railed = "Railed Handguard",
-	bm_wp_ass_s552_fg_railed_desc = "Metal handguard with rails.",
+	bm_wp_ass_s552_fg_railed_desc = "Metal handguard with rails. Welcome to the 21st century.",
 	-- enhanced ugly
 	bm_wp_ass_s552_g_standard_green = "Enhanced Grip",
-	bm_wp_ass_s552_g_standard_green_desc = "Grip made from high-friction materials.",
+	bm_wp_ass_s552_g_standard_green_desc = "Grip made from high-friction materials. That are apparently luminecisent?",
 	-- enhanced ugly
 	bm_wp_ass_s552_s_standard_green = "Enhanced Stock",
-	bm_wp_ass_s552_s_standard_green_desc = "Stock with enhanced finish.",
+	bm_wp_ass_s552_s_standard_green_desc = "Stock with enhanced finish. Don't blind yourself.",
 	-- heat-treated receiver
 	bm_wp_ass_s552_body_standard_black = "Covert Receiver",
 	bm_wp_ass_s552_body_standard_black_desc = "Modified receiver with a less conspicuous appearance.",
@@ -1654,7 +1654,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 
 	-- EAGLE HEAVY
 	bm_w_scar_desc = "Accurate and reliable, even under adverse conditions. While its little 5.56x45mm brother has faded into obscurity, the heavy sibling continues to impress.",
-	bm_wp_scar_b_long_desc = "Extended 20-inch barrel. ",
+	bm_wp_scar_b_long_desc = "Extended 20-inch barrel.",
 	bm_wp_scar_b_short_desc = "CQC variant barrel. Loud.",
 	bm_wp_scar_s_sniper_desc = "Non-folding precision-fire stock. Totally worth the money.",
 
@@ -1749,7 +1749,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 	--
 	bm_wp_wpn_fps_m14_extra_bipod_desc = "When the jungle speaks, listen.\n\n" .. bipodstr,
 	-- B-team stock
-	bm_wp_m14_body_ruger = "Ruger Mini-14 Body, for the soldier of fourtune.",
+	bm_wp_m14_body_ruger = "Ruger Mini-14 Body.",
 	bm_wp_m14_body_ruger_desc = "A second-choice stock. Fitting for a B-Team like you.",
 
 
@@ -2153,7 +2153,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 	bm_wp_ben_s_collapsed_desc = "You weren't using it, were you?",
 	-- stock that can't kill babies
 	bm_wp_ben_fg_standard = "Solid Stock",
-	bm_wp_ben_fg_standard_desc = "A fixed tactical stock for the civilan market. You don't want to get the Commerce Department on your ass, right?",
+	bm_wp_ben_fg_standard_desc = "A fixed tactical stock for the civilan market.",
 
 
 	-- JUDGE
@@ -2603,7 +2603,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 	-- Arkansas Toothpick
 	bm_melee_bowie_desc = "The Arkansas Toothpick was created by the same man who invented the Bowie knife, with which it shares two traits. The first is that neither name carries a clear-cut definition. The second is that neither should be used as a toothpick.",
 	-- Gold Fever
-	bm_melee_mining_pick_desc = "Gold prospecting is the art of riches and fortune. Gold can be found by panning in rivers, mining in hills, or by simple surface examination.\n\nIt can also be found in vaults, which means you'll need some special tools for digging your way in.",
+	bm_melee_mining_pick_desc = "Gold prospecting is the art of riches and '. Gold can be found by panning in rivers, mining in hills, or by simple surface examination.\n\nIt can also be found in vaults, which means you'll need some special tools for digging your way in.",
 	-- Microphone
 	bm_melee_microphone_desc = "Microphones convert sound into electrical signals. They allow a single person to send a message out to anyone who can hear it.\n\nSometimes, the message is \"I'm going to beat you to a pulp with this microphone.\"",
 	-- Classic Baton
@@ -2898,7 +2898,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 	bm_wp_wpn_fps_upg_ks23_ammo_buckshot_20pellet_desc = "Buckshot with effective range of 10 meters.\n\nIncreases pellet count from 10 to 20. Reduces falloff ranges to 10m/30m.",
 	bm_wp_wpn_fps_upg_ks23_ammo_slug_desc = "Powerful steel slug.\n\nPierces shields. Removes damage falloff.",
 	bm_wp_wpn_fps_upg_ks23_barrel_short = "Short Barrel",
-	bm_wp_wpn_fps_upg_ks23_barrel_short_desc = "Shortened barrel from the modernized variant.",
+	bm_wp_wpn_fps_upg_ks23_barrel_short_desc = "Shortened barrel from the modernized variant. Could you get any sillier?",
 	bm_wp_wpn_fps_upg_ks23_stock_pistolgrip = "Pistol Grip",
 	bm_wp_wpn_fps_upg_ks23_stock_pistolgrip_desc = "Pistol grip from the modernized variant.",
 	bm_wp_wpn_fps_upg_ks23_stock_pistolgrip_wire = "Pistol Grip and Wire Stock",
@@ -3340,7 +3340,7 @@ if InFmenu.settings.txt_wpnname > 1 then
 
 	-- MK18 specialist
 	bm_w_mk18s_desc = "US Navy-developed upper receiver equipped to a carbine to shorten it to the length of an SMG. The Mod 1 was modified to maximize available rail space.",
-	bm_wp_wpn_fps_ass_mk18s_mag_big_desc = "For militaries only.",
+	bm_wp_wpn_fps_ass_mk18s_mag_big_desc = "For militiary and law enforcement use only, you hear?.",
 	bm_wp_wpn_fps_ass_mk18s_grip_black = "Dark Grip",
 	bm_wp_wpn_fps_ass_mk18s_grip_black_desc = "",
 	bm_wp_wpn_fps_ass_mk18s_fg_black = "Dark Handguard",
